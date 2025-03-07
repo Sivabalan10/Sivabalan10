@@ -56,7 +56,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Sivabalan10&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivabalan10" alt="GitHub Streak" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sivabalan10&" alt="samuel-2552" /></p>
 </p>
 
 </div>
