@@ -1,3 +1,5 @@
+<div style="background-color: #000; color: #fff; padding: 20px;">
+
 # Hi there, I'm Sivabalan10 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://in.linkedin.com/in/sivabalan10)
@@ -13,14 +15,29 @@ I'm a passionate developer focused on building robust API backend systems and cu
 
 ## 🔧 Tech Stack & Expertise
 
-- **Backend Development:** API design & development, Flask (RESTful & Restless), Node.js 
-- **Data Structures and Algorithms:** Solving problems in Leetcode using Java
-- **Frontend Development:** React, modern responsive UI  
-- **Full-Stack:** MERN Stack, real-time web applications  
-- **Computer Networks and OS:** Linux and Unix specifically for Cybersecurity
-- **Cybersecurity:** Landed a first step for exploring 
-- **Data Science & AI:** Case studies in Machine Learning & Deep Learning  
-- **Other Interests:** cloud integration, scalable system architectures, Low Level Design 
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js" /><br /><b>Node.js</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" alt="Flask" /><br /><b>Flask</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React" /><br /><b>React</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" alt="Java" /><br /><b>Java</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB" /><br /><b>MongoDB</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux" /><br /><b>Linux</b></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Shield_icon.svg/1200px-Shield_icon.svg.png" width="40" alt="Cybersecurity" /><br /><b>Cybersecurity</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" /><br /><b>Python</b></td>
+  </tr>
+</table>
+
+- **Backend Development:** API design & development using Flask (RESTful & Restless) and Node.js.
+- **Data Structures & Algorithms:** Solving problems on Leetcode using Java.
+- **Frontend Development:** Building modern responsive UIs with React.
+- **Full-Stack:** Mastering the MERN Stack and real-time web applications.
+- **Computer Networks & OS:** Working with Linux/Unix systems for cybersecurity.
+- **Cybersecurity:** Taking initial steps and exploring the field.
+- **Data Science & AI:** Conducting case studies in Machine Learning & Deep Learning.
+- **Other Interests:** Cloud integration, scalable system architectures, and low-level design.
 
 ---
 
@@ -28,15 +45,15 @@ I'm a passionate developer focused on building robust API backend systems and cu
 
 - **Company Projects:**
   - **Brakes India:** Contributed to developing a robust backend system.
-  - **Apollo Tyres:** Worked on scalable computer vision software solutions for their digital platforms.
+  - **Apollo Tyres:** Developed scalable computer vision software solutions for digital platforms.
 - **Founder and Developer:**
-  - **Matrix Food Order:** Founder and Developer for solving food ordering issues to make smooth process by developing complete end to end website.
+  - **Matrix Food Order:** Created an end-to-end website to streamline the food ordering process.
 - **Independent Projects:**
-  - Developed **25+ backend projects** that power various applications.
+  - Developed **25+ backend projects** powering various applications.
   - Conducted extensive case studies in **Machine Learning** and **Deep Learning**.
 - **Ongoing Work:**
-  - Building real-time backend systems using python for company project as a intern.
-  - Continuously refining API systems for enhance performance ,scalability and security.
+  - Building real-time backend systems using Python for a company project as an intern.
+  - Continuously refining API systems to enhance performance, scalability, and security.
 
 ---
 
@@ -60,5 +77,7 @@ I'm always open to new opportunities and collaborations. Whether you have a proj
 
 ---
 
-*Let's build something awesome together!*
-*Available for projects, open source contribution*
+*Let's build something awesome together!*  
+*Available for projects and open source contributions.*
+
+</div>
