@@ -28,15 +28,15 @@ I'm a passionate developer focused on building robust API backend systems and cu
 
 - **Company Projects:**
   - **Brakes India:** Contributed to developing a robust backend system.
-  - **Apollo Tyres:** Worked on scalable API solutions for their digital platforms.
+  - **Apollo Tyres:** Worked on scalable computer vision software solutions for their digital platforms.
 - **Founder and Developer:**
   - **Matrix Food Order:** Founder and Developer for solving food ordering issues to make smooth process by developing complete end to end website.
 - **Independent Projects:**
   - Developed **25+ backend projects** that power various applications.
   - Conducted extensive case studies in **Machine Learning** and **Deep Learning**.
 - **Ongoing Work:**
-  - Building real-time web applications using React.
-  - Continuously refining API systems to enhance performance and scalability.
+  - Building real-time backend systems using python for company project as a intern.
+  - Continuously refining API systems for enhance performance ,scalability and security.
 
 ---
 
