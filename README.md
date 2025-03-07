@@ -1,19 +1,7 @@
 <div class="animated" style="background-color: #000; color: #fff; padding: 20px;">
 
 <!-- Dynamic Animation & Hover Effects -->
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(-10px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-.animated {
-  animation: fadeIn 2s ease-in-out;
-}
-.icon-hover:hover {
-  transform: scale(1.2);
-  transition: transform 0.3s;
-}
-</style>
+
 
 # Hi there, I'm Sivabalan10 👋
 
