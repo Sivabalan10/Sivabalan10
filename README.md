@@ -25,7 +25,7 @@ I'm a passionate developer focused on building robust API backend systems and cu
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB" /><br /><b>MongoDB</b></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux" /><br /><b>Linux</b></td>
-    
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Shield_icon.svg/1200px-Shield_icon.svg.png" width="40" alt="Cybersecurity" /><br /><b>Cybersecurity</b></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" /><br /><b>Python</b></td>
   </tr>
 </table>
