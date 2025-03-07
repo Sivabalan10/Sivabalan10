@@ -14,7 +14,7 @@
   <li>💬 Ask me about MERN, Flask, and API development</li>
   <li>📫 Reach me on <a href="https://in.linkedin.com/in/sivabalan10" style="color: #fff;">LinkedIn</a></li>
 </ul>
-
+<hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://in.linkedin.com/in/sivabalan10" target="_blank">
@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/GitHub-Sivabalan10-181717?style=flat-square&logo=github" alt="GitHub" height="30" />
   </a>
 </p>
-
+<hr>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" style="margin: 5px;" /></a>
@@ -48,7 +48,7 @@
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" style="margin: 5px;" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" style="margin: 5px;" /></a>
 </p>
-
+<hr>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sivabalan10&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
