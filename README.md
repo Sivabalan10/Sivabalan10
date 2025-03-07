@@ -3,7 +3,7 @@
 <!-- Dynamic Animation & Hover Effects -->
 
 
-# Hi there, I'm Sivabalan10 👋
+# Hi there, I'm Sivabalan 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://in.linkedin.com/in/sivabalan10)
 [![GitHub](https://img.shields.io/badge/GitHub-Sivabalan10-181717?style=flat-square&logo=github)](https://github.com/Sivabalan10)
