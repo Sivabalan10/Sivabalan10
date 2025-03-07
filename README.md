@@ -86,7 +86,7 @@ I'm a passionate developer focused on building robust API backend systems and cu
       <img src="https://img.icons8.com/ios-filled/50/ffffff/chat.png" width="40" alt="LLM" /><br /><b>LLM</b>
     </td>
     <td align="center" class="icon-hover">
-      <img src="https://img.icons8.com/ios-filled/50/ffffff/database.png" width="40" alt="DB Manage" /><br /><b>DB Manage</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS" /><br /><b>CSS</b>
     </td>
     <td align="center" class="icon-hover">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /><br /><b>JS</b>
@@ -94,15 +94,6 @@ I'm a passionate developer focused on building robust API backend systems and cu
     <td align="center" class="icon-hover">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML" /><br /><b>HTML</b>
     </td>
-  </tr>
-  <!-- Row 6 -->
-  <tr>
-    <td align="center" class="icon-hover">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS" /><br /><b>CSS</b>
-    </td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
   </tr>
 </table>
 
