@@ -13,11 +13,14 @@ I'm a passionate developer focused on building robust API backend systems and cu
 
 ## 🔧 Tech Stack & Expertise
 
-- **Backend Development:** API design & development, Flask (RESTful & Restless), Node.js  
+- **Backend Development:** API design & development, Flask (RESTful & Restless), Node.js 
+- **Data Structures and Algorithms:** Solving problems in Leetcode using Java
 - **Frontend Development:** React, modern responsive UI  
 - **Full-Stack:** MERN Stack, real-time web applications  
+- **Computer Networks and OS:** Linux and Unix specifically for Cybersecurity
+- **Cybersecurity:** Landed a first step for exploring 
 - **Data Science & AI:** Case studies in Machine Learning & Deep Learning  
-- **Other Interests:** Cybersecurity, cloud integration, scalable system architectures
+- **Other Interests:** cloud integration, scalable system architectures, Low Level Design 
 
 ---
 
@@ -26,6 +29,8 @@ I'm a passionate developer focused on building robust API backend systems and cu
 - **Company Projects:**
   - **Brakes India:** Contributed to developing a robust backend system.
   - **Apollo Tyres:** Worked on scalable API solutions for their digital platforms.
+- **Founder and Developer:**
+  - **Matrix Food Order:* Founder and Developer for solving food ordering issues to make smooth process by developing complete end to end website.
 - **Independent Projects:**
   - Developed **25+ backend projects** that power various applications.
   - Conducted extensive case studies in **Machine Learning** and **Deep Learning**.
@@ -56,3 +61,4 @@ I'm always open to new opportunities and collaborations. Whether you have a proj
 ---
 
 *Let's build something awesome together!*
+*Available for projects, open source contribution*
