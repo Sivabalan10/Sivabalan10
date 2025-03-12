@@ -53,8 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Sivabalan10&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 <!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivabalan10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sivabalan10)" alt="GitHub Streak" />
 </p> -->
 
 </div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sivabalan10)](https://git.io/streak-stats)
