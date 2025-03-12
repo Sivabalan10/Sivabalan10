@@ -55,6 +55,6 @@
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivabalan10" alt="GitHub Streak" />
 </p> -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sivabalan10)](https://git.io/streak-stats)
 
 </div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sivabalan10)](https://git.io/streak-stats)
