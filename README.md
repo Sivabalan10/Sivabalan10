@@ -1,6 +1,6 @@
 <div style="background-color: #000; color: #fff; padding: 20px;">
 
-<h1 align="center">Hi 👋, I'm Sivabalan10</h1>
+<h1 align="center">Hi 👋, I'm Sivabalan</h1>
 <h3 align="center">A passionate Developer | API & Backend Specialist | MERN & Cybersecurity Enthusiast</h3>
 
 <p align="center">
@@ -52,6 +52,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sivabalan10&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
+<p align="center">
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sivabalan10" alt="GitHub Streak" /></a>
-
+</p>
 </div>
