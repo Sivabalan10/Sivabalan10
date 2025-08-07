@@ -10,7 +10,7 @@
 <ul>
 <li>🤖 Researching about AI in an interest of building future AGI</li>
   <li>🔭 Working on robust API systems and real-time web apps</li>
-  <li>🌱 Learning to master cybersecurity</li>
+  <li>🌱 Learning to adapt to upcoming AI era</li>
   <li>👨‍💻 Explore my projects on <a href="https://github.com/Sivabalan10?tab=repositories" style="color: #fff;">GitHub</a></li>
   <li>💬 Ask me about MERN, Flask, AI, Security and API development</li>
   <li>📫 Reach me on <a href="https://in.linkedin.com/in/sivabalan10" style="color: #fff;">LinkedIn</a></li>
