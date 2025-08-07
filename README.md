@@ -8,7 +8,7 @@
 </p>
 
 <ul>
-<li>🤖 Researching about AI in an interest building future AGI</li>
+<li>🤖 Researching about AI in an interest of building future AGI</li>
   <li>🔭 Working on robust API systems and real-time web apps</li>
   <li>🌱 Learning to master cybersecurity</li>
   <li>👨‍💻 Explore my projects on <a href="https://github.com/Sivabalan10?tab=repositories" style="color: #fff;">GitHub</a></li>
