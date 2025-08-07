@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/sivabalan10" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sivabalanofficial@gmail.com">
+  <a href="mailto:sivabalan10122003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
