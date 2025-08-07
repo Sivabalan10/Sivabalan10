@@ -70,7 +70,7 @@
 ---
 
 ## 🎯 Goals for 2025
-- ⬜ Build an AI-driven SaaS product  
+- ⬜ Build an AI-driven Saas product 
 - ⬜ Contribute to an Open Source AGI project  
 - ⬜ Publish AI + Backend architecture guides  
 - ⬜ Create a personal AI research blog  
