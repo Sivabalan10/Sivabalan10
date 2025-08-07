@@ -61,7 +61,7 @@
 
 | Area | Tools/Concepts |
 |------|----------------|
-| 🤖 AI & ML | TensorFlow, PyTorch, OpenCV, LLMs |
+| 🤖 AI & ML | TensorFlow, PyTorch, OpenCV, MCP Server, LLMs, GENAI, Agentic AI
 | 🧠 Backend | Flask, Node.js, MongoDB, PostgreSQL |
 | 🔐 Security | JWT, OAuth, HTTPS, API Security |
 | 💬 Chatbots | OpenAI API, GPT-4, LangChain |
