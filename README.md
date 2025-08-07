@@ -1,13 +1,14 @@
 <div style="background-color: #000; color: #fff; padding: 20px;">
 
 <h1 align="center">Hi 👋, I'm Sivabalan</h1>
-<h3 align="center">A passionate Developer | API & Backend Specialist | MERN & Cybersecurity Enthusiast</h3>
+<h3 align="center">Exploring AI and Backend Development | AI | API & Backend Specialist | MERN & Flask</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sivabalan10&label=Profile%20views&color=0e75b6&style=flat" alt="Sivabalan10" />
 </p>
 
 <ul>
+<li>🤖 Researching about AI in an interst building future AGI</li>
   <li>🔭 Working on robust API systems and real-time web apps</li>
   <li>🌱 Learning to master cybersecurity</li>
   <li>👨‍💻 Explore my projects on <a href="https://github.com/Sivabalan10?tab=repositories" style="color: #fff;">GitHub</a></li>
