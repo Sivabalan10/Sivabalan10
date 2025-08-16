@@ -1,7 +1,7 @@
 <!-- AI-Based Dark Themed README with GitHub Markdown -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sivabalan;AI+%7C+Backend+Developer;MERN+%7C+Flask+%7C+LLM+%7C+API+Specialist;Always+learning+something+new..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sivabalan;AI+%7C+Backend+Developer;GENAI+%7C+Flask+%7C+LLM+%7C+API+Specialist;Always+learning+something+new..." alt="Typing SVG" />
 </h1>
 
 <p align="center">
